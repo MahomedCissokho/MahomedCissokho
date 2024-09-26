@@ -1,4 +1,4 @@
-# 👨‍💻 Mahomed Cissokho
+# 👨‍💻 Mahomed CISSOKHO
 
 [![GitHub followers](https://img.shields.io/github/followers/mahomedcissokho?style=social)](https://github.com/mahomedcissokho)
 [![Twitter Follow](https://img.shields.io/twitter/follow/from_nasa_city?style=social)](https://twitter.com/from_nasa_city)
@@ -20,10 +20,12 @@ Passionate about crafting elegant and efficient web solutions. Based in Senegal,
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🌱 Currently Learning
 
 - Advanced TypeScript patterns
+- GitHub Actions for CI/CD
 - UI/UX design principles
 - GraphQL
 
