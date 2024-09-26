@@ -24,10 +24,9 @@ Passionate about crafting elegant and efficient web solutions. Based in Senegal,
 
 ### 🌱 Currently Learning
 
-- Advanced TypeScript patterns
+- Advanced TypeScript 
 - GitHub Actions for CI/CD
-- UI/UX design principles
-- GraphQL
+
 
 ### 📊 GitHub Stats
 
