@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mahomedcissokho?style=social)](https://github.com/mahomedcissokho)
 [![Twitter Follow](https://img.shields.io/twitter/follow/from_nasa_city?style=social)](https://twitter.com/from_nasa_city)
 
-## 🚀 Full Stack Developer | React & Vue.js Specialist
+## 🚀 Full Stack Developer | React/React Native & Vue.js Specialist
 
 Passionate about crafting elegant and efficient web solutions. Based in Senegal, I bring a unique perspective to every project I undertake.
 
