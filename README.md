@@ -24,8 +24,7 @@ Passionate about crafting elegant and efficient web solutions. Based in Senegal,
 
 ### 🌱 Currently Learning
 
-- Advanced TypeScript and State Management
-- GitHub Actions for CI/CD
+- Clean code
 
 
 ### 📊 GitHub Stats
