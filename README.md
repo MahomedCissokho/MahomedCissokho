@@ -24,9 +24,7 @@ Passionate about crafting elegant and efficient web solutions. Based in Senegal,
 
 ### 🌱 Currently Learning
 
-- Clean code
-
-
+deployment of Generative AI on premise
 ### 📊 GitHub Stats
 
 <p align="center">
