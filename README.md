@@ -1,71 +1,83 @@
-# 👨‍💻 Mahomed CISSOKHO
+<h1 align="center">🧠 Mahomed CISSOKHO</h1>
+<h3 align="center">🌍 Full Stack DevOps Engineer | React, Vue3, Mobile & Infra Enthusiast</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/mahomedcissokho?style=social)](https://github.com/mahomedcissokho)
-[![Twitter Follow](https://img.shields.io/twitter/follow/from_nasa_city?style=social)](https://twitter.com/from_nasa_city)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Crafting+Digital+Solutions+for+Africa;Cloud-Native+Apps+%7C+DevOps+%7C+Mobile+Excellence;Generative+AI+%2B+Digital+ID+Transformation" />
+</p>
 
-## 🚀 Full Stack Developer | React, Vue3 & Mobile Specialist
-
-Crafting seamless, performant, and user-centric web & mobile apps.  
-🎯 Passionate about digital transformation in Africa, especially in digital ID.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Tools & Styling**  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://github.com/mahomedcissokho"><img src="https://img.shields.io/github/followers/mahomedcissokho?label=Followers&style=flat-square&logo=github" /></a>
+  <a href="https://twitter.com/from_nasa_city"><img src="https://img.shields.io/twitter/follow/from_nasa_city?style=flat-square&logo=twitter&color=1DA1F2" /></a>
+  <a href="https://www.linkedin.com/in/mahomed-cissokho"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+</p>
 
 ---
 
-### 🌱 Currently Exploring
+## 🚀 About Me
 
-🧠 On-premise deployment of Generative AI  
-⚙️ Digital ID ARCHTECTURE SYSTEMS
+🎓 Software Engineer from 🇸🇳 Senegal — Building systems that **solve real-world public service problems**.  
+🛠 Final-year engineering student at the Polytechnic School of Dakar.  
+💡 Focused on **digital ID**, **DevOps pipelines**, and **modern app infrastructures**.  
+🌐 Advocating for **open innovation and e-Gov** transformation across Africa.
 
 ---
 
-### 📈 GitHub Stats
+## 🔧 Tech Toolbox
+
+### 🧑‍💻 Programming Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+### 💻 Frontend Frameworks  
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![React Native](https://img.shields.io/badge/React_Native-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Vue.js 3](https://img.shields.io/badge/Vue_3-161B22?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-161B22?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+### 🛠️ Backend & Infra  
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=339933)  
+![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)  
+![ELK Stack](https://img.shields.io/badge/ELK-161B22?style=for-the-badge&logo=elastic&logoColor=005571)
+
+### 🧰 Tools & CI/CD  
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=github-actions&logoColor=2088FF)  
+![Postman](https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Generative AI on-premise
+- 🛡 Digital ID system architectures
+- ☁️ Full DevOps toolchain automation
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahomedcissokho&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahomedcissokho&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahomedcissokho&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahomedcissokho&theme=github-dark-blue&hide_border=true&background=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahomedcissokho&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
 </div>
 
 ---
 
-### 💬 Most Used Languages
+## 🤝 Let’s Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahomedcissokho&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahomed-cissokho)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/from_nasa_city)  
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dev_sn)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahomed-cissokho)
+- 🐦 [Twitter](https://twitter.com/from_nasa_city)
+- 🧑‍💻 [Stack Overflow](https://stackoverflow.com/users/dev_sn)
+- 📧 Email: **mahomedcissokho@esp.sn**
 
 ---
 
-### 📫 Reach Out
+> Built with ❤️ from Mboro · 🇸🇳 Powered by curiosity and Ubuntu
 
-💌 Email: **mahomedcissokho@esp.sn**  
-Always open to collaborations, exciting projects, or a friendly chat!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahomedcissokho&theme=matrix&margin-w=15&margin-h=15&no-frame=true" />
+</p>
 
 ---
-
-> ⭐️ From [mahomedcissokho](https://github.com/mahomedcissokho)
