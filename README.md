@@ -2,7 +2,7 @@
 <h3 align="center">🌍 Full Stack DevOps Engineer | React, Vue3, Mobile & Infra Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Crafting+Digital+Solutions+for+Africa;Cloud-Native+Apps+%7C+DevOps+%7C+Mobile+Excellence;Generative+AI+%2B+Digital+ID+Transformation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Crafting+Digital+Solutions+for+Africa;Cloud-Native+Apps+%7C+DevOps+%7C+Mobile+Excellence;Generative+AI+%2B+Digital+ID+Transformation" />
 </p>
 
 <p align="center">
