@@ -7,7 +7,6 @@
 
 Passionate about crafting elegant and efficient web solutions. Based in Senegal, I bring a unique perspective to every project I undertake.
 
-![pp](https://github.com/user-attachments/assets/278731d5-3031-4a64-8d13-21e60c2ed6af)
 
 
 ### 🛠 Tech Stack
