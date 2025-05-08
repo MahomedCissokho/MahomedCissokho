@@ -44,6 +44,10 @@
 ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=github-actions&logoColor=2088FF)  
 ![Postman](https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37)
+### 🧪 Data & ML Tools
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
