@@ -16,7 +16,6 @@
 ## 🚀 About Me
 
 🎓 Software Engineer from 🇸🇳 Senegal — Building systems that **solve real-world public service problems**.  
-🛠 Final-year engineering student at the Polytechnic School of Dakar.  
 💡 Focused on **digital ID**, **DevOps pipelines**, and **modern app infrastructures**.  
 🌐 Advocating for **open innovation and e-Gov** transformation across Africa.
 
